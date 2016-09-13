@@ -1,0 +1,3 @@
+LIBRARY HideDebugger
+EXPORTS HideDebugger
+EXPORTS GetModuleVersion

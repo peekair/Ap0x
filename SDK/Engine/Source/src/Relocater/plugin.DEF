@@ -1,0 +1,11 @@
+LIBRARY Relocater
+EXPORTS RelocaterInit
+EXPORTS RelocaterAddNewRelocation
+EXPORTS RelocaterExportRelocation
+EXPORTS RelocaterChangeFileBase
+EXPORTS RelocaterEstimatedSize
+EXPORTS RelocaterMakeSnapshoot
+EXPORTS RelocaterCompareTwoSnapshots
+EXPORTS RelocaterGrabRelocationTable
+EXPORTS RelocaterGrabRelocationTableEx
+EXPORTS GetModuleVersion

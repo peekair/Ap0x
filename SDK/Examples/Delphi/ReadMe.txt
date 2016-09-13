@@ -1,0 +1,1 @@
+ Before compiling copy SDK.pas to unpacker folder. Then recompile the source.

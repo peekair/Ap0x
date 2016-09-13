@@ -1,0 +1,4 @@
+LIBRARY Realign
+EXPORTS RealignPE
+EXPORTS IsPE32FileValid
+EXPORTS GetModuleVersion

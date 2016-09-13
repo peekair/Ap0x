@@ -1,0 +1,10 @@
+LIBRARY Tracer
+EXPORTS GetModuleVersion
+EXPORTS TracerInit
+EXPORTS TracerLevel1
+EXPORTS HashTracerLevel1
+EXPORTS TracerAutoFixIAT
+EXPORTS TracerGetAPIAdressByHashing
+EXPORTS TracerDetectRedirection
+EXPORTS TracerAutoFixImportElimination
+EXPORTS TracerFixKnownRedirection
